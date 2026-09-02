@@ -1,0 +1,6 @@
+{
+  "name": "AI Health Copilot Pro",
+  "description": "Production-grade Full-Stack ML + Agentic Clinical Risk Copilot with CRISP-DM lifecycle, deterministic feature flagging, Gemini LLM clinical reasoning, and ITDO alert/task operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
